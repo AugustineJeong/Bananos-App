@@ -1,0 +1,17 @@
+{
+  "_comment": "This file simulates the current prices of different grocery stores",
+  "stores": {
+    "costco": {
+      "items": {
+        "banana": {
+          "price": 1.99,
+          "unit": "lbs"
+        },
+        "apple": {
+          "price": 1.99,
+          "unit": "lbs"
+        }
+      }
+    }
+  }
+}

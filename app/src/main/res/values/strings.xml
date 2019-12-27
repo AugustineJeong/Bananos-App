@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bananos</string>
+    <string name="bananos_logo">Bananos Logo</string>
+    <string name="list_icon">list icon</string>
+    <string name="go_bananas_on_your_savings">Go Bananas on your Savings.</string>
+    <string name="list">List</string>
+    <string name="voiceIcon">Button for voice recognition</string>
+    <string name="this_is_a_voice_icon">This is a voice icon</string>
+    <string name="back">Back</string>
+    <string name="text">text</string>
+</resources>

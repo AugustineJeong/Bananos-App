@@ -1,0 +1,257 @@
+{
+  "_comment": "This file simulates the current prices of different grocery stores",
+  "stores": {
+    "costco": {
+      "items": {
+        "banana": {
+          "price": 2.99,
+          "unit": "lbs"
+        },
+        "apple": {
+          "price": 1.99,
+          "unit": "lbs"
+        },
+        "mango": {
+          "price": 3.59,
+          "unit": "lbs"
+        },
+        "chicken": {
+          "price": 2.99,
+          "unit": "lbs"
+        },
+        "butter": {
+          "price": 3.99,
+          "unit": "piece"
+        },
+        "pizza": {
+          "price": 7.99,
+          "unit": "piece"
+        },
+        "cheese": {
+          "price": 5.99,
+          "unit": "piece"
+        },
+        "juice": {
+          "price": 6.99,
+          "unit": "piece"
+        },
+        "bread": {
+          "price": 2.49,
+          "unit": "piece"
+        },
+        "cake": {
+          "price": 10.99,
+          "unit": "piece"
+        },
+        "eggs": {
+          "price": 7.99,
+          "unit": "piece"
+        },
+        "rice": {
+          "price": 23.99,
+          "unit": "lbs"
+        },
+        "flour": {
+          "price": 11.99,
+          "unit": "lbs"
+        },
+        "tea": {
+          "price": 8.99,
+          "unit": "lbs"
+        },
+        "coffee": {
+          "price": 8.89,
+          "unit": "lbs"
+        },
+        "yogurt": {
+          "price": 7.99,
+          "unit": "piece"
+        },
+        "potato": {
+          "price": 5.19,
+          "unit": "lbs"
+        },
+        "onion": {
+          "price": 4.50,
+          "unit": "lbs"
+        },
+        "corn": {
+          "price": 11.99,
+          "unit": "lbs"
+        },
+        "pasta": {
+          "price": 8.99,
+          "unit": "piece"
+        }
+      }
+    },
+    "superstore": {
+      "items": {
+        "banana": {
+          "price": 3.99,
+          "unit": "lbs"
+        },
+        "apple": {
+          "price": 2.99,
+          "unit": "lbs"
+        },
+        "mango": {
+          "price": 4.59,
+          "unit": "lbs"
+        },
+        "chicken": {
+          "price": 3.99,
+          "unit": "lbs"
+        },
+        "butter": {
+          "price": 1.99,
+          "unit": "piece"
+        },
+        "pizza": {
+          "price": 6.99,
+          "unit": "piece"
+        },
+        "cheese": {
+          "price": 5.79,
+          "unit": "piece"
+        },
+        "juice": {
+          "price": 2.99,
+          "unit": "piece"
+        },
+        "bread": {
+          "price": 1.89,
+          "unit": "piece"
+        },
+        "cake": {
+          "price": 8.99,
+          "unit": "piece"
+        },
+        "eggs": {
+          "price": 3.99,
+          "unit": "piece"
+        },
+        "rice": {
+          "price": 4.99,
+          "unit": "lbs"
+        },
+        "flour": {
+          "price": 1.99,
+          "unit": "lbs"
+        },
+        "tea": {
+          "price": 0.99,
+          "unit": "lbs"
+        },
+        "coffee": {
+          "price": 0.89,
+          "unit": "lbs"
+        },
+        "yogurt": {
+          "price": 3.99,
+          "unit": "piece"
+        },
+        "potato": {
+          "price": 1.19,
+          "unit": "lbs"
+        },
+        "onion": {
+          "price": 2.50,
+          "unit": "lbs"
+        },
+        "corn": {
+          "price": 0.99,
+          "unit": "lbs"
+        },
+        "pasta": {
+          "price": 3.99,
+          "unit": "piece"
+        }
+      }
+    },
+    "safeway": {
+      "items": {
+        "banana": {
+          "price": 0.99,
+          "unit": "lbs"
+        },
+        "apple": {
+          "price": 3.99,
+          "unit": "lbs"
+        },
+        "mango": {
+          "price": 8.59,
+          "unit": "lbs"
+        },
+        "chicken": {
+          "price": 5.99,
+          "unit": "lbs"
+        },
+        "butter": {
+          "price": 1.99,
+          "unit": "piece"
+        },
+        "pizza": {
+          "price": 8.99,
+          "unit": "piece"
+        },
+        "cheese": {
+          "price": 1.99,
+          "unit": "piece"
+        },
+        "juice": {
+          "price": 3.99,
+          "unit": "piece"
+        },
+        "bread": {
+          "price": 3.49,
+          "unit": "piece"
+        },
+        "cake": {
+          "price": 5.99,
+          "unit": "piece"
+        },
+        "eggs": {
+          "price": 2.99,
+          "unit": "piece"
+        },
+        "rice": {
+          "price": 7.99,
+          "unit": "lbs"
+        },
+        "flour": {
+          "price": 11.99,
+          "unit": "lbs"
+        },
+        "tea": {
+          "price": 9.99,
+          "unit": "lbs"
+        },
+        "coffee": {
+          "price": 3.89,
+          "unit": "lbs"
+        },
+        "yogurt": {
+          "price": 5.99,
+          "unit": "piece"
+        },
+        "potato": {
+          "price": 3.19,
+          "unit": "lbs"
+        },
+        "onion": {
+          "price": 5.50,
+          "unit": "lbs"
+        },
+        "corn": {
+          "price": 4.99,
+          "unit": "lbs"
+        },
+        "pasta": {
+          "price": 4.76,
+          "unit": "piece"
+        }
+      }
+    }
+  }
+}
