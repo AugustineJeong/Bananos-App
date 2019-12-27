@@ -14,3 +14,4 @@ The app utilizes a mock database for demonstration purposes.
 
 <img src="https://user-images.githubusercontent.com/14143525/71495117-1031d100-2801-11ea-937c-c2807e180583.png" width="400" height="790">
 
+## Screenshots
