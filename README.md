@@ -4,10 +4,6 @@ A grocery store puchase optimizing tool. Using the speech recognition tool, a us
 The app utilizes a mock database for demonstration purposes.
 
 
-## Collaborators
-**Augustine Jeong**, **Joey Shi**, Shashwat Regmi, Tony Shen
-
-
 ## Screenshots
 
 <div>
@@ -15,3 +11,7 @@ The app utilizes a mock database for demonstration purposes.
 <img src="https://user-images.githubusercontent.com/14143525/71495116-0f00a400-2801-11ea-8649-5006241778ae.png" width="250">
 <img src="https://user-images.githubusercontent.com/14143525/71495117-1031d100-2801-11ea-937c-c2807e180583.png" width="250">
 
+
+
+## Collaborators
+**Augustine Jeong**, **Joey Shi**, Shashwat Regmi, Tony Shen
