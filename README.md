@@ -1,6 +1,8 @@
 # bananos
 Bananos - Go bananas on your saving and nano on your spending! <br/> <br/>
-Using the speech recognition tool, a user can simply say a name of an item and its quantity. This information is reflected in the details page and the cheapest overall store - where the combined price of all the items that user inputs is the cheapest - is displayed. (The app utilizes a sample data of stores, their items, and the items’ prices for demonstration purposes.)
+Using the speech recognition tool, a user can simply say a name of an item and its quantity. This information is reflected in the details page and the cheapest overall store - where the combined price of all the items that user inputs is the cheapest - is displayed. 
+
+(The app utilizes a sample data of stores, their items, and the items’ prices for demonstration purposes.)
 
 
 ## Screenshots
