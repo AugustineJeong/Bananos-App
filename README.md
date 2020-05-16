@@ -11,8 +11,7 @@ Using the speech recognition tool, a user can simply say a name of an item and i
 <img src="https://user-images.githubusercontent.com/14143525/80857175-dd5f7580-8c04-11ea-87b7-e43781587353.png" width="250">
 <img src="https://user-images.githubusercontent.com/14143525/80857177-df293900-8c04-11ea-90f2-3ce3d213de9e.png" width="250">
 <img src="https://user-images.githubusercontent.com/14143525/80857178-e05a6600-8c04-11ea-8229-c8ba9de93fb4.png" width="250">
-
-
+(The UI is very basic, I know! But this was originally a one day hackathon project, at our first ever hackathon!)
 
 ## Collaborators
 **Augustine Jeong**, **Joey Shi**, Shashwat Regmi, Tony Shen
